@@ -1,0 +1,4 @@
+[submodule "LibreriaInOut"]
+	path = LibreriaInOut
+	url = https://github.com/sCouDom/LibreriaInOut.git
+	branch = master
